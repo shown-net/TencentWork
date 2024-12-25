@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tencent Work</string>
+    <string name="imageView">相册</string>
+
+    <string name="recycleBin">回收站</string>
+    <string name="title_newsContent">newsContent</string>
+</resources>

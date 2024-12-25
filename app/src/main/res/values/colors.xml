@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 -->
+    <color name="primaryColor">#6200EE</color> <!-- 紫色 -->
+    <color name="primaryColorDark">#3700B3</color> <!-- 深紫色 -->
+    <color name="primaryColorLight">#9B4DFF</color> <!-- 浅紫色 -->
+
+    <!-- 辅助色调 -->
+    <color name="secondaryColor">#03DAC6</color> <!-- 青绿色 -->
+    <color name="secondaryColorDark">#018786</color> <!-- 深青色 -->
+    <color name="secondaryColorLight">#66FFF9</color> <!-- 浅青绿色 -->
+
+    <!-- 背景颜色 -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- 白色 -->
+    <color name="backgroundLightColor">#F5F5F5</color> <!-- 浅灰色 -->
+    <color name="backgroundDarkColor">#121212</color> <!-- 深色背景 -->
+
+    <!-- 文字颜色 -->
+    <color name="textColorPrimary">#000000</color> <!-- 主文字颜色 (黑色) -->
+    <color name="textColorSecondary">#757575</color> <!-- 辅助文字颜色 (灰色) -->
+    <color name="textColorAccent">#FF4081</color> <!-- 强调文字颜色 (粉红色) -->
+    <color name="textColorOnBackground">#FFFFFF</color> <!-- 背景上显示的文字 (白色) -->
+
+    <!-- 按钮背景颜色 -->
+    <color name="buttonColor">#6200EE</color> <!-- 按钮主色 (紫色) -->
+    <color name="buttonColorDisabled">#D1C4E9</color> <!-- 按钮禁用颜色 -->
+    <color name="buttonColorPressed">#3700B3</color> <!-- 按钮按下时的颜色 (深紫色) -->
+
+    <!-- 边框颜色 -->
+    <color name="borderColor">#BDBDBD</color> <!-- 边框颜色 (灰色) -->
+    <color name="borderColorError">#F44336</color> <!-- 错误时的边框颜色 (红色) -->
+
+    <!-- 输入框背景颜色 -->
+    <color name="inputFieldBackground">#F5F5F5</color> <!-- 输入框背景色 -->
+    <color name="inputFieldErrorBackground">#FFEBEE</color> <!-- 错误输入框背景色 -->
+
+    <!-- 状态颜色 -->
+    <color name="statusBarColor">#6200EE</color> <!-- 状态栏背景颜色 -->
+    <color name="navigationBarColor">#000000</color> <!-- 导航栏背景颜色 -->
+    <color name="chipColor">#03DAC6</color> <!-- Chip 的背景色 (青绿色) -->
+
+    <!-- 其他常用颜色 -->
+    <color name="nightColor">#303030</color> <!-- 夜色 -->
+    <color name="selectButtonBackground">#E0E0E0</color> <!-- 选择按钮背景颜色 -->
+    <color name="errorColor">#F44336</color> <!-- 错误提示颜色 (红色) -->
+    <color name="successColor">#4CAF50</color> <!-- 成功提示颜色 (绿色) -->
+    <color name="warningColor">#FF9800</color> <!-- 警告提示颜色 (橙色) -->
+    <color name="infoColor">#2196F3</color> <!-- 信息提示颜色 (蓝色) -->
+
+    <!-- 透明颜色 -->
+    <color name="transparent">#00000000</color> <!-- 完全透明 -->
+    <color name="semiTransparent">#80000000</color> <!-- 半透明 -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+</resources>
